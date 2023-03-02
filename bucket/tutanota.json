@@ -1,12 +1,12 @@
 {
-    "version": "3.108.12",
+    "version": "3.109.13",
     "homepage": "https://tutanota.com/",
     "description": "The official desktop client for Tutanota, the email service with a strong focus on security and privacy.",
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
             "url": "https://mail.tutanota.com/desktop/tutanota-desktop-win.exe#/dl.7z",
-            "hash": "a571b11add7d146370c4192197cb49be410bdd33d5b1779e31a67e800079b3e9"
+            "hash": "0045a9d4e45518bd127963f113728ffcf524412d829a1f28807f37554c253db0"
         }
     },
     "extract_dir": "$PLUGINSDIR",
